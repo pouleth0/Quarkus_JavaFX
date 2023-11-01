@@ -50,6 +50,7 @@ If you want to learn more about building native executables, please consult http
 ## Related Guides
 
 - Reactive MySQL client ([guide](https://quarkus.io/guides/reactive-sql-clients)): Connect to the MySQL database using the reactive pattern
+- Jakarta Inject-CDI ([guide](https://quarkus.io/guides/cdi-reference)): Quarkus DI solution (also called ArC) is based on the Jakarta Contexts and Dependency Injection 4.0 
 - Hibernate Validator ([guide](https://quarkus.io/guides/validation)): Validate object properties (field, getter) and method parameters for your beans (REST, CDI, Jakarta Persistence)
 - Hibernate Envers ([guide](https://quarkus.io/guides/hibernate-orm#envers)): Enable Hibernate Envers capabilities in your Jakarta Persistence applications
 - JDBC Driver - MySQL ([guide](https://quarkus.io/guides/datasource)): Connect to the MySQL database via JDBC
